@@ -87,6 +87,7 @@ function addReposToCard(repos){
         reposEl.appendChild(repoEl);
         
     });
+    // fetch only 5 repos
 }
 
 
