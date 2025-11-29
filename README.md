@@ -94,17 +94,18 @@
 <h2>📸 Preview</h2>
 <p><em>The project UI looks like this:</em></p>
 <!-- update paths to your screenshots -->
-<img src="/assests/screenshots/s1.png" alt="Screenshot 1" width="420">
+<img src="assets/screenshots/s1.png" alt="Screenshot 1" width="420">
 <br><br>
-<img src="/assests/screenshots/s1.png" alt="Screenshot 2" width="420">
+<img src="assets/screenshots/s2.png" alt="Screenshot 2" width="420">
 
 <hr>
 
 <h2>🎥 Screen Recording</h2>
   <ul>
-  <li><a href="recordings/Screen Recording 2025-11-24 135143.mp4">Live Coding-1</a></li>
-  <li><a href="recordings/Screen Recording 2025-11-24 135828.mp4">Live Coding-2 </a></li>
-  <li><a href="recordings/Screen Recording 2025-11-24 172800.mp4">Watch Full Demo </a></li>
+  <li><a href="assets/screen-recordings/live coding1.mp4">Live Coding-1</a></li>
+  <li><a href="assets/screen-recordings/live coding2.mp4">Live Coding-2 </a></li>
+  <li><a href="assets/screen-recordings/live coding3.mp4">Live Coding-3 </a></li>
+  <li><a href="assets/screen-recordings/final-demo.mp4">Full Demo </a></li>
 </ul>
 
 <hr>
