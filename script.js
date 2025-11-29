@@ -50,18 +50,18 @@ function createUserCard(user){
     const userbio= user.bio? `<p>${user.bio}</p>`:"";
     const cardHTML=`
     <div class="card">
-    <img src="${user.avatar_url}" alt="${user.name}" class="avatar"/>
-    </div>
+    <img src="${user.avatar_url}" alt="${user.name}" class='avatar'/>
     <div class="user-info">
     <h2>${userID}</h2>
     ${userbio}
     <ul>
     <li>${user.followers}<strong>Followers</strong>
     <li>${user.following}<strong>Following</strong>
-    <li>${user.public_repos}<strong>Repostories</strong>
+    <li>${user.public_repos}<strong>Repos</strong>
     </ul>
+    
+    <div id="repos"></div>
     </div>
-    <div id="repos">
     </div>
     `
     main.innerHTML=cardHTML;
