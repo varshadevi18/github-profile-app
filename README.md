@@ -94,9 +94,9 @@
 <h2>📸 Preview</h2>
 <p><em>The project UI looks like this:</em></p>
 <!-- update paths to your screenshots -->
-<img src="screenshots/screen1.png" alt="Screenshot 1" width="420">
+<img src="/assests/screenshots/s1.png" alt="Screenshot 1" width="420">
 <br><br>
-<img src="screenshots/screen2.png" alt="Screenshot 2" width="420">
+<img src="/assests/screenshots/s1.png" alt="Screenshot 2" width="420">
 
 <hr>
 
