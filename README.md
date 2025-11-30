@@ -5,7 +5,7 @@
 <h2>Working</h2>
 <ol>
   <li>User enters a GitHub username.</li>
-  <li>JavaScript listens for the Enter key or button click.</li>
+  <li>JavaScript listens for the Enter key.</li>
   <li>Axios sends API requests.</li>
   <li>If user exists → profile card is updated.</li>
   <li>If user doesn’t exist → error message appears.</li>
